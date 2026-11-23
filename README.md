@@ -1,5 +1,7 @@
 # Atendimento no WhatsApp com IA, ligado ao CRM
 
+**Demo no ar:** <https://demo-atendimento-whatsapp.vercel.app> · CRM ligado: <https://demo-mini-crm.vercel.app> (o login de demonstração aparece na tela)
+
 > ⚠️ **Projeto de demonstração.** A clínica "Sorriso Claro Odontologia", os preços, os pacientes e os telefones são **fictícios**.
 > Todas as páginas mostram uma faixa avisando disso e não são indexadas pelo Google.
 > Não digite dados reais na demo.
